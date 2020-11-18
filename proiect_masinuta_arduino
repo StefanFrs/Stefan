@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T15:12:47.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="flU6EsA99Y_OQfpdsNqF" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T15:13:51.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="OxFOXQHfTD1sUOeXtbmt" version="13.3.5" type="github">
   <diagram id="o2M9yfnmv62io4I1o4RZ" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,19 +74,19 @@
             <mxPoint x="610" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yPQKDrWICD-KFs5ePF0W-21" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.007;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yPQKDrWICD-KFs5ePF0W-13" target="yPQKDrWICD-KFs5ePF0W-5">
+        <mxCell id="yPQKDrWICD-KFs5ePF0W-21" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1.007;exitY=0.15;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="yPQKDrWICD-KFs5ePF0W-5" target="yPQKDrWICD-KFs5ePF0W-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="280" as="sourcePoint" />
-            <mxPoint x="450" y="230" as="targetPoint" />
+            <mxPoint x="450" y="230" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yPQKDrWICD-KFs5ePF0W-24" value="Motor servo SG90 9g" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="470" y="240" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yPQKDrWICD-KFs5ePF0W-25" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yPQKDrWICD-KFs5ePF0W-24" target="yPQKDrWICD-KFs5ePF0W-5">
+        <mxCell id="yPQKDrWICD-KFs5ePF0W-25" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="yPQKDrWICD-KFs5ePF0W-5" target="yPQKDrWICD-KFs5ePF0W-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="270" as="sourcePoint" />
-            <mxPoint x="450" y="220" as="targetPoint" />
+            <mxPoint x="450" y="220" as="sourcePoint" />
+            <mxPoint x="400" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yPQKDrWICD-KFs5ePF0W-26" value="Accelerometru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
